@@ -1,2 +1,2 @@
 # politico
-##GH Pages link
+##GH Pages link> https://nehemiahlimo.github.io/politico/

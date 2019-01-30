@@ -1,0 +1,2 @@
+create a repo in your github account
+clone the repo to your local machine in the terminal by using the command git clone <URL to your repo>
